@@ -1,2 +1,1 @@
-# iplikcinedim
-İplikci nedim php tarafından geliştirmiş olduğum bir frameworktür.
+### İPLİKCİ NEDİM COK YAKINDA...

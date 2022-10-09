@@ -1,0 +1,19 @@
+{
+    "name": "jesusjson/iplikcinedim",
+    "type": "project",
+    "description": "İplikçi Nedim",
+    "keywords": ["framework", "pdo", "api","apiframework","pdoframework"],
+    "homepage": "https://github.com/jesusjson/iplikcinedim",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JesusJson",
+            "email": "jesujson@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "jesusjson/iplikcinedim": "~1.0"
+    }
+}
